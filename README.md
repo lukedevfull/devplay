@@ -9,12 +9,11 @@
 DevPlay Music é um projeto FullStack ambicioso, inspirado no Spotify, que visa oferecer uma experiência de audição musical imersiva e personalizada. Construído com paixão e utilizando tecnologias de ponta como React, Node.js, HTML, CSS e JavaScript, este player te permite explorar, criar e compartilhar sua paixão pela música.
 
 ## Tecnologias
-* ** Backend: Node.js, Npm, JSON
-* ** Frontend: React, JS, HTML, CSS
+* **Backend: Node.js, Npm, JSON
+* **Frontend: React, JS, HTML, CSS
 
 ## ✨ Funcionalidades em Destaque
 
-*   **Autenticação de Usuário:** Crie sua conta, faça login e gerencie seu perfil de forma segura.
 *   **Player de Música:** Controle a reprodução de músicas com funcionalidades como play, pause, avançar, retroceder e controle de volume. (por motivos de diretos de reprodução o player nao reproduz a musica)
 *   **Design Responsivo:** Acesse o player em qualquer dispositivo, seja desktop, tablet ou smartphone, com uma interface adaptada para cada tela.
 
