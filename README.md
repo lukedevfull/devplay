@@ -35,7 +35,7 @@ DevPlay Music é um projeto FullStack ambicioso, inspirado no Spotify, que visa 
 3.  **Inicie a aplicação:**
 
     ```bash
-   npm run dev
+    npm run dev
     ```
 
 4.  **Acesse o player:**
